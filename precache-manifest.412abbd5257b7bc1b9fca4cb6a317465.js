@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/TextUtilsApp/static/js/runtime~main.495ede41.js"
   },
   {
-    "revision": "b494d4ff094339f77271a757eb72bc9f",
+    "revision": "ec64ff00a1508724edc49bfee3a7e3d7",
     "url": "/TextUtilsApp/index.html"
   }
 ];
